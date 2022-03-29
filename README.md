@@ -1,4 +1,5 @@
 # Discrete-Math
+ Practical_1
 
 My first practical work on discrete math
 
@@ -14,3 +15,6 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/91155188/160699472-6a95ec31-ce4a-4f7f-87ac-302bbbe5a4e6.png)
 
+
+# Practical works on discrete math
+ main
